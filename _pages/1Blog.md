@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-## 《操作系统》练习题
+## Practice for OS Course
 
 + 习题1：[【中国海洋大学】操作系统随堂测试1整理-CSDN博客](https://blog.csdn.net/Peter1146717850/article/details/133696509)
 + 习题2：[【中国海洋大学】操作系统随堂测试2整理-CSDN博客](https://blog.csdn.net/Peter1146717850/article/details/134539192)
@@ -20,4 +20,5 @@ redirect_from:
 
 
 
-## 生成模型学习
+## Generative Model Learning
+
