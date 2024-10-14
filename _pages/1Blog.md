@@ -22,3 +22,5 @@ redirect_from:
 
 ## Generative Model Learning
 
++ PDF Note: [生成模型.pdf](../assets/Generative_Model.pdf)
+
