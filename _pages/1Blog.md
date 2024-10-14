@@ -18,7 +18,9 @@ redirect_from:
 + 习题7：[【中国海洋大学】操作系统随堂测试7整理-CSDN博客](https://blog.csdn.net/Peter1146717850/article/details/134908931)
 + 习题8：[【中国海洋大学】操作系统随堂测试8整理-CSDN博客](https://blog.csdn.net/Peter1146717850/article/details/135025943)
 
+## Principles of Compilation Study Notes
 
++ PDF
 
 ## Generative Model Learning
 
