@@ -12,9 +12,9 @@ title                    : "Han Xiang's Homepage"
 title_separator          : "-"
 name                     : &name "Han Xiang"
 description              : &description "personal description"
-url                      : "https://hanxiangTAO.github.io"
+url                      : "https://hanxiang527.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "hanxiangTAO/hanxiangTAO.github.io"
+repository               : "hanxiang527/hanxiang527.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
