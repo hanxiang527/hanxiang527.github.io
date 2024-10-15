@@ -16,7 +16,7 @@ Please feel free to contact me!
 Educational Experience
 ======
 - 2025/09 - , Huazhong University of Science and Technology, Information and Communication Engineering, Master
-- 2021/09 - 2025/06, Ocean University of China, Computer Science and Technology, Bachelar
+- 2021/09 - 2025/06, Ocean University of China, Computer Science and Technology, Bachelor
 
 
 Awards During Undergraduate Studies
