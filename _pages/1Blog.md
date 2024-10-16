@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-## Practice for OS Course
+## Practice for OS Course （《操作系统》练习题）
 
 + 习题1：[【中国海洋大学】操作系统随堂测试1整理-CSDN博客](https://blog.csdn.net/Peter1146717850/article/details/133696509)
 + 习题2：[【中国海洋大学】操作系统随堂测试2整理-CSDN博客](https://blog.csdn.net/Peter1146717850/article/details/134539192)
@@ -18,11 +18,11 @@ redirect_from:
 + 习题7：[【中国海洋大学】操作系统随堂测试7整理-CSDN博客](https://blog.csdn.net/Peter1146717850/article/details/134908931)
 + 习题8：[【中国海洋大学】操作系统随堂测试8整理-CSDN博客](https://blog.csdn.net/Peter1146717850/article/details/135025943)
 
-## Principles of Compilation Study Notes
+## Principles of Compilation Study Notes （《编译原理》笔记）
 
-+ PDF
++ PDF Notebook: [编译原理_韩翔.pdf](../assets/bianyiyuanli.pdf)
 
-## Generative Model Learning
+## Generative Model Learning （生成模型学习）
 
-+ PDF Note: [生成模型.pdf](../assets/Generative_Model.pdf)
++ PDF Notebook: [生成模型.pdf](../assets/Generative_Model.pdf)
 
