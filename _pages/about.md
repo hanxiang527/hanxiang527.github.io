@@ -9,7 +9,7 @@ redirect_from:
 
 Hi! I am Han Xiang, from Qingdao, Shandong Province. I am currently a senior student in Ocean University of China, and I will be attending Huazhong University of Science and Technology next year for graduate studies. 
 
-I am interested in Computer Vision and Multimedia. Besides, I am also interested in music, especially for symphonies. I have learnt to play the violin for more than 10 years.
+I am interested in Computer Vision. Besides, I am also interested in music, especially for symphonies. I have learned to play the violin for more than 10 years.
 
 Please feel free to contact me!
 
@@ -21,23 +21,15 @@ Educational Experience
 
 Awards During Undergraduate Studies
 ======
+- 2024-10 National Scholarship (RMB: 10000 yuan)
 - 2023-11 China Undergraduate Mathematical Contest in Modeling \| Undergraduate Group Second Prize
-
 - 2023-06 MathorCup Mathematical Modeling Challenge for Colleges and Universities \| Undergraduate Group First Prize
-
 - 2024-06 Lanqiao Cup Competition C/C++ A Group \| National Excellent Prize
-
 - 2023-05 Honorable Mention of MCM (Mathematical Contest in Modeling) (USA)
-
 - 2022-11 Ocean University of China \| First Class Scholarship (RMB: 3000 yuan)
-
 - 2023-11 Ocean University of China \| First Class Scholarship (RMB: 3000 yuan)
-
 - 2022-11 Ocean University of China \| “Outstanding Student” Honorary Title
-
 - 2023-11 Outstanding Student Leader, Ocean University of China
-
 - 2022-12 AEON Scholarship (RMB: 5000 yuan)
-
 - 2023-11 Luxin Scholarship (RMB: 3000 yuan)
 
