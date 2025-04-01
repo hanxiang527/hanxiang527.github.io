@@ -26,3 +26,12 @@ redirect_from:
 
 + PDF Notebook: [生成模型.pdf](../assets/Generative_Model.pdf)
 
+## Server - Basic （服务器基础操作）
+
+Especially for deep learning usage.
+
++ HTML Blog: [服务器入门1](../assets/server1.html)
+
+## TOEFL Notes (23' Summer)（托福学习笔记）
+
++ PDF Notebook: [托福笔记.pdf](../assets/23'TOEFL.pdf)
