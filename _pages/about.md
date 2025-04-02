@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Han Xiang, from Qingdao, Shandong Province. I am currently a senior student in Ocean University of China, and I will be attending Huazhong University of Science and Technology next year for graduate studies. 
+Hi! I am Han Xiang, from Qingdao, Shandong Province. I am currently a senior student in Ocean University of China, and I will be attending Huazhong University of Science and Technology in 2025 Autumn for graduate studies. 
 
 I am interested in Computer Vision. Besides, I am also interested in music, especially for symphonies. I have learned to play the violin for more than 10 years.
 
